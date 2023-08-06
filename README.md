@@ -3,7 +3,7 @@
 
 ![Captura de Tela (68)](https://github.com/WV-Wesley-Victor/Projeto-Dashboard/assets/137107062/d4b8ed88-cbc3-4b12-9e11-3a87b2099b93)
 <p align="center">
-  <a href="https://wv-wesley-victor.github.io/Projeto-Angels-Hotels/" target="_blank">Clique aqui para visitar o projeto</a>
+  <a href="https://wv-wesley-victor.github.io/Projeto-Dashboard/" target="_blank">Clique aqui para visitar o projeto</a>
 </p>
 
 ## Descrição
